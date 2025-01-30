@@ -61,11 +61,10 @@ Discussions = "https://github.com/acseCAPSlab/SheffieldParameterSet/discussions"
 Changelog = "https://github.com/acseCAPSlab/SheffieldParameterSet/releases"
 
 [project.entry-points."parameter_sets"]
-Chen2020 = "sheffield_parameter_set.parameters.input.Chen2020:get_parameter_values"
+SheffieldParameterSet = "sheffield_parameter_set.parameters.input.SheffieldParameterSet:get_parameter_values"
 
 [project.entry-points."models"]
-SPM = "sheffield_parameter_set.models.input.SPM:SPM"
-BasicReservoir = "sheffield_parameter_set.models.input.BasicReservoir:BasicReservoir"
+ECM_1RC = "sheffield_parameter_set.models.input.ECM_1RC:ECM_1RC"
 
 [tool.hatch]
 version.source = "vcs"
