@@ -1,0 +1,15 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_src_path: C:\Users\acse14047\pipx\.cache\55e128b28af8ec1\Lib\site-packages
+backend: hatch
+branch: main
+email: nikileshramesh2003@gmail.com
+full_name: Nikilesh Ramesh
+license: MIT
+mypy: true
+org: acseCAPSlab
+platform: github
+project_name: SheffieldParameterSet
+project_short_description: ECM parameter set from University of Sheffield
+project_slug: sheffield_parameter_set
+url: https://github.com/acseCAPSlab/SheffieldParameterSet
+vcs: true
