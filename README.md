@@ -1,4 +1,5 @@
-# SheffieldParameterSet
+# PyBamm Interface for Li-Batt
+
 
 [![Actions Status][actions-badge]][actions-link]
 [![Documentation Status][rtd-badge]][rtd-link]
