@@ -1,4 +1,4 @@
-# PyBamm Interface for Li-Batt
+# PyBamm Interface for BatteryZoo
 
 
 [![Actions Status][actions-badge]][actions-link]
